@@ -1,0 +1,3 @@
+This project demonstrates the design and implementation of an enterprise-grade Identity and Access Management (IAM) solution using Authentik as a centralized Identity Provider (IdP). The solution integrates LDAP directory services with SAML 2.0–based Single Sign-On (SSO) to provide secure, scalable, and centralized authentication across enterprise applications and network security infrastructure.
+
+The implementation follows zero-trust and least-privilege principles, emphasizing secure identity federation, certificate-based trust, and role-based access control (RBAC).
